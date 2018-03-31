@@ -14,7 +14,6 @@ module.exports = {
         "curly": true,
         "forin": true,
         "no-console": true,
-        "valid-typeof": true,
         "no-floating-promises": true,
         "no-misused-new": true,
         "no-string-throw": true,
