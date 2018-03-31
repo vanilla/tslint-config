@@ -21,5 +21,6 @@ module.exports = {
         "prefer-object-spread": true,
         "indent": [true, "spaces", 4],
         "eofline": true,
+        "object-literal-sort-keys": false,
     },
 }
