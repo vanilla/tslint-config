@@ -12,7 +12,7 @@ yarn add --dev tslint
 
 Install this config.
 ```sh
-yarn add --dev @vanillaforums/eslint-config
+yarn add --dev @vanillaforums/tslint-config
 ```
 
 ## Configuration
