@@ -22,5 +22,6 @@ module.exports = {
         "indent": [true, "spaces", 4],
         "eofline": true,
         "object-literal-sort-keys": false,
+        "ordered-imports": false,
     },
 }
