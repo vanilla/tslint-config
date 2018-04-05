@@ -23,5 +23,7 @@ module.exports = {
         "eofline": true,
         "object-literal-sort-keys": false,
         "ordered-imports": false,
+        "jsx-key": false,
+        "jsx-boolean-value": false
     },
 }
