@@ -72,6 +72,7 @@ module.exports = {
             options: ["consistent-as-needed"],
         },
         "object-literal-shorthand": true,
+        "object-literal-sort-keys": false,
         "one-line": {
             options: [
                 "check-catch",
