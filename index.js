@@ -68,9 +68,7 @@ module.exports = {
         "no-use-before-declare": false,
         "no-var-keyword": true,
         "no-var-requires": true,
-        "object-literal-key-quotes": {
-            options: ["consistent-as-needed"],
-        },
+        "object-literal-key-quotes": [true, "as-needed"],
         "object-literal-shorthand": true,
         "object-literal-sort-keys": false,
         "one-line": {
