@@ -126,4 +126,7 @@ module.exports = {
         "jsx-key": false,
         "jsx-boolean-value": false
     },
+    "jsRules": {
+        "no-empty": true
+    }
 };
