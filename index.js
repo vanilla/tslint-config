@@ -127,6 +127,6 @@ module.exports = {
         "jsx-boolean-value": false
     },
     "jsRules": {
-        "no-empty": true
+        "encoding": true
     }
 };
