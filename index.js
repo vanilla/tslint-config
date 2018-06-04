@@ -64,6 +64,7 @@ module.exports = {
         "no-unnecessary-initializer": true,
         "no-unsafe-finally": true,
         "no-unused-expression": [true, "allow-fast-null-checks"],
+        "no-unused-variable": true,
         // disable this rule as it is very heavy performance-wise and not that useful
         "no-use-before-declare": false,
         "no-var-keyword": true,
