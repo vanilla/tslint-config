@@ -36,11 +36,7 @@ module.exports = {
             options: [1],
         },
         "member-access": true,
-        "member-ordering": {
-            options: {
-                order: "statics-first",
-            },
-        },
+        "member-ordering": false,
         "new-parens": true,
         "no-angle-bracket-type-assertion": true,
         "no-any": false,
